@@ -3,7 +3,11 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-sm-3 col-md-3 item pt-5">
+<<<<<<< HEAD
                     <h3>Iar CHỈ</h3>
+=======
+                    <h3>Cc CHỈ</h3>
+>>>>>>> 13b1a3efbd38bbb1b0d95d0d794b5192bcbb72c5
                     <ul>
                         <li><a href="#">Quốc lộ 7A gần khu đô thị Hoàng Sơn - Thị Trấn Diễn Châu - Tỉnh Nghệ An</a></li>
                         <li><a href="#"></a></li>
